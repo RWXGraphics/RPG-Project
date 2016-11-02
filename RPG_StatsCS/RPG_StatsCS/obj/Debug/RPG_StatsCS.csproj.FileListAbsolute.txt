@@ -1,0 +1,9 @@
+c:\users\robert\documents\visual studio 2015\Projects\RPG_StatsCS\RPG_StatsCS\bin\Debug\RPG_StatsCS.exe.config
+c:\users\robert\documents\visual studio 2015\Projects\RPG_StatsCS\RPG_StatsCS\bin\Debug\RPG_StatsCS.exe
+c:\users\robert\documents\visual studio 2015\Projects\RPG_StatsCS\RPG_StatsCS\bin\Debug\RPG_StatsCS.pdb
+c:\users\robert\documents\visual studio 2015\Projects\RPG_StatsCS\RPG_StatsCS\obj\Debug\RPG_StatsCS.csprojResolveAssemblyReference.cache
+c:\users\robert\documents\visual studio 2015\Projects\RPG_StatsCS\RPG_StatsCS\obj\Debug\RPG_StatsCS.Form1.resources
+c:\users\robert\documents\visual studio 2015\Projects\RPG_StatsCS\RPG_StatsCS\obj\Debug\RPG_StatsCS.Properties.Resources.resources
+c:\users\robert\documents\visual studio 2015\Projects\RPG_StatsCS\RPG_StatsCS\obj\Debug\RPG_StatsCS.csproj.GenerateResource.Cache
+c:\users\robert\documents\visual studio 2015\Projects\RPG_StatsCS\RPG_StatsCS\obj\Debug\RPG_StatsCS.exe
+c:\users\robert\documents\visual studio 2015\Projects\RPG_StatsCS\RPG_StatsCS\obj\Debug\RPG_StatsCS.pdb
